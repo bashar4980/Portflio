@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "ProjectName": "LaptopZone",
+    "ProjectDec": "LaptopBazar is a dynamic Website for an e-commerce app like used products selling. This website is fully responsive. Any seller or any buyer can register in this web application. Here dashboard feature is included. Provide JWT authentication in this website.The technology used- HTML, CSS, JavaScript, Tailwind CSS, daisy Ui, React,Node.js, Express.js, MongoDB, Firebase Features:• User Authentication & Authorization using Firebase• Admin dashboard• Payment System Setup• MongoDB CRUD operation• JWT Authentication",
+    "ProjectImg": "https://i.ibb.co/ngQs4KY/Project1.png",
+    "ProjectCategory": "MERN",
+    "Live":"https://laptopzone-86c92.web.app/"
+  },
+  {
+    "id": 2,
+    "ProjectName": "Learn Tech",
+    "ProjectDec": "Learn Tech is an e-learning academy.Start, switch, or advance your career with more than 5 courses, Professional Certificates, and degrees from world-class universities and companies. It is a dynamic and single-page application. This website is fully responsive. React dynamic routing is used for this website.Node.js and express.js are used for the backend. Firebase is used for user login and sign-up. It looks good and awesome",
+    "ProjectImg": "https://i.ibb.co/ZXcHfws/Screenshot-2.png",
+    "ProjectCategory": "MERN",
+    "Live":"https://e-learning-cb6fd.web.app/"
+  },
+  {
+    "id": 3,
+    "ProjectName": "Quiz app",
+    "ProjectDec": "It is React quiz website. This website is fully responsive. React dynamic routing is used for this application and use react pie-chart",
+    "ProjectImg": "https://i.ibb.co/XpWC5vn/Screenshot-1.png",
+    "ProjectCategory": "MERN",
+    "Live":"https://cute-chaja-1b68ab.netlify.app/"
+  }
+]
